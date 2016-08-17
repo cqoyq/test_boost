@@ -1,0 +1,7 @@
+/.cproject
+/.project
+/.settings
+/*.o
+/test
+/log*
+/*w.xml
